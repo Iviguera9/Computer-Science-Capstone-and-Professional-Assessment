@@ -26,4 +26,4 @@ Overall, this experience has taught me the necessary aspects of computer science
 - EclipseIDE 2024 (Java, JSP, HTML)
 - MySQL Workbench 8.0 CE
 - Tomcat v7.0 Server
-- 
+- ChatGPT 4.0(For Code Cleaning Purposes Only)
